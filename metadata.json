@@ -1,0 +1,6 @@
+{
+  "name": "Metro Dash: 3D Endless Runner",
+  "description": "A high-speed 3D cartoon endless runner game featuring 3-lane acrobatic running, trains, hoverboards, jetpacks, collectible coins, character unlocks, and responsive touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
